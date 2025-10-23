@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Software engineer with **5+ years of experience** mainly in data and backend engineering. Currently pursuing my MSc at King's College London while diving deep into Security Engineering, Software Measurement and Testing, Agentic Systems, Data and AI. 
+Software engineer with **5+ years of experience** mainly in data and backend engineering. Currently pursuing my MSc at King's College London while diving deep into Security Engineering, Software Measurement and Testing, Agentic Systems, Data, AI, Distributed Ledgers & Crypto Currencies. 
 ```python
 class SoftwareEngineer:
     def __init__(self):
