@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-url](https://www.linkedin.com/in/miguel-castillo-molina-284748199/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcastillomolina)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguel_ignacio.castillo_molina@kcl.ac.uk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micky.abreu@gmail.com)
 
 </div>
 
@@ -15,14 +15,14 @@
 
 ## 🚀 About Me
 
-Software engineer with **5+ years of experience** building data-intensive applications. Currently pursuing my MSc at King's College London while diving deep into financial technology and payment systems.
+Software engineer with **5+ years of experience** mainly in data and backend engineering. Currently pursuing my MSc at King's College London while diving deep into Security Engineering, Software Measurement and Testing, Agentic Systems, Data and AI. 
 ```python
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Miguel Castillo"
-        self.role = "Data/Backend Engineer"
+        self.role = "Software Engineer | Data Engineer"
         self.education = "MSc Advanced Computing @ KCL"
+        self.former_employers = ['PagerDuty', 'Front', 'Datawheel', 'Graymatics']
         self.languages = ["Python", "SQL", "Java", "TypeScript", "C"]
-        self.interests = ["Fintech", "APIs", "Data Pipelines", "SecEng", "Agent Systems"]
-        self.available = "September 2026"
+        self.interests = ["APIs", "Data Pipelines", "SecEng", "Agent Systems", "Fintech", "Crypto"]
 
