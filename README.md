@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Software engineer with **5+ years of experience** mainly in data and backend engineering. Currently pursuing my MSc at King's College London while diving deep into Security Engineering, Software Measurement and Testing, Agentic Systems, Data, AI, Distributed Ledgers & Crypto Currencies. 
+Engineer with **6 years of experience** in the tech industry mainly in data and backend engineering. Currently pursuing my MSc at King's College London while diving deep into Security Engineering, Software Measurement and Testing, Agentic Systems, Data and AI. 
 ```python
 class SoftwareEngineer:
     def __init__(self):
@@ -24,5 +24,5 @@ class SoftwareEngineer:
         self.education = "MSc Advanced Computing @ KCL"
         self.former_employers = ['PagerDuty', 'Front', 'Datawheel', 'Graymatics']
         self.languages = ["Python", "SQL", "Java", "TypeScript", "C"]
-        self.interests = ["APIs", "Data Pipelines", "SecEng", "Agent Systems", "Fintech", "Crypto"]
+        self.interests = ["Distributed Systems", "Data Engineering", "Security Engineering", "Agent Systems", "Fintech", "Crypto"]
 
