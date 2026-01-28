@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Miguel
 
 **MSc Advanced Computing @ King's College London**  
-*Data Engineer | Python Developer | Fintech Enthusiast*
+*Data Engineer | Software Engineer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-url](https://www.linkedin.com/in/miguel-castillo-molina-284748199/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcastillomolina)
