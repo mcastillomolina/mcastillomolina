@@ -20,9 +20,9 @@ Engineer with **6 years of experience** in the tech industry mainly in data and 
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Miguel Castillo"
-        self.role = "Software Engineer | Data Engineer"
+        self.role = "Data Engineer | Software Engineer"
         self.education = "MSc Advanced Computing @ KCL"
         self.former_employers = ['PagerDuty', 'Front', 'Datawheel', 'Graymatics']
         self.languages = ["Python", "SQL", "Java", "TypeScript", "C"]
-        self.interests = ["Distributed Systems", "Data Engineering", "Security Engineering", "Agent Systems", "Fintech", "Crypto"]
+        self.interests = ["LLMs", "Neural Networks", "Data Engineering", "Distributed Computing", "Knowledge Engineering", "RAG"]
 
